@@ -1,6 +1,6 @@
 # SQL:
 
-# 📘 SQL Basics – Apna College Tutorial
+# 📘 SQL Basics: 
 
 This repository contains examples based on the SQL which I have learned from the Youtube channel **[Apna College SQL Tutorial]**.  
 It covers the **fundamental SQL concepts**, commands, and syntax that every beginner should know.
