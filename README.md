@@ -15,7 +15,7 @@ It allows you to **store, manipulate, and retrieve data** efficiently.
 ---
 
 ## 📂 Contents
-- [Database Basics](#database-basics)
+- [Database Basics]
 - [Creating & Managing Tables](#creating--managing-tables)
 - [Data Insertion & Retrieval](#data-insertion--retrieval)
 - [Filtering Data](#filtering-data)
