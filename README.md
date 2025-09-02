@@ -29,6 +29,6 @@ It allows you to **store, manipulate, and retrieve data** efficiently.
 ---
 
 
-Creadit : (https://www.youtube.com/watch?v=hlGoQC332VM&t=1005s)
+Credit : (https://www.youtube.com/watch?v=hlGoQC332VM&t=1005s)
 
 Thanks a lot "Apna College"
