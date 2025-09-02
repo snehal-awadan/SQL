@@ -14,16 +14,17 @@ It allows you to **store, manipulate, and retrieve data** efficiently.
 
 ---
 
-## 📂 Contents
-- [Database Basics]
-- [Creating & Managing Tables](#creating--managing-tables)
-- [Data Insertion & Retrieval](#data-insertion--retrieval)
-- [Filtering Data](#filtering-data)
-- [Updating & Deleting Records](#updating--deleting-records)
-- [Constraints](#constraints)
-- [Aggregate Functions](#aggregate-functions)
-- [Joins](#joins)
-- [Subqueries](#subqueries)
+## 📂 Contents: 
+
+- Database Basics
+- Creating & Managing Tables
+- Data Insertion & Retrieval
+- Filtering Data
+- Updating & Deleting Records
+- Constraints
+- Aggregate Functions
+- Joins
+- Subqueries
 
 ---
 
