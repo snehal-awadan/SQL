@@ -2,7 +2,7 @@
 
 # 📘 SQL Basics – Apna College Tutorial
 
-This repository contains examples based on the **[Apna College SQL Tutorial](https://www.youtube.com/watch?v=hlGoQC332VM&t=1005s)**.  
+This repository contains examples based on the SQL which I have learned from the Youtube channel **[Apna College SQL Tutorial]**.  
 It covers the **fundamental SQL concepts**, commands, and syntax that every beginner should know.
 
 ---
@@ -29,3 +29,6 @@ It allows you to **store, manipulate, and retrieve data** efficiently.
 ---
 
 
+Creadit : (https://www.youtube.com/watch?v=hlGoQC332VM&t=1005s)
+
+Thanks a lot "Apna College"
